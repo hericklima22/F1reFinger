@@ -1,5 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
+# Hello, folks! <img src="https://raw.githubusercontent.com/F1reFinger/F1reFinger/master/scott.gif" width="30px">
 
 ### Hi there 👋
 
