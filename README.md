@@ -25,9 +25,18 @@
 <h1 align=center>Helder Lourenço De Abreu Marques</h1>
 <p>i'm not the regular programmer type you see on web but i'm trying my best to become a quality programmer.I'm intrested in optmize existing things I also like play video games and hear music.</p>
 
+<br>
+<br>
+
+<div> 
+  <a href="https://www.linkedin.com/in/helder-lourenço-de-abreu-marques-b02093226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/F1reFinger/F1reFinger/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
   <br>
   <br>
   <div style="margin-left: 50">
   <img align="center" alt="jpg" src="./50042.jpg"/>
 </div>
-![Snake animation](https://github.com/F1reFinger/F1reFinger/blob/output/github-contribution-grid-snake.svg)
+
