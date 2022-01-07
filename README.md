@@ -29,5 +29,5 @@
   <br>
   <div style="margin-left: 50">
   <img align="center" alt="jpg" src="./50042.jpg"/>
-    ![Snake animation](https://github.com/F1reFinger/F1reFinger/blob/output/github-contribution-grid-snake.svg)
 </div>
+![Snake animation](https://github.com/F1reFinger/F1reFinger/blob/output/github-contribution-grid-snake.svg)
